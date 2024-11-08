@@ -7,5 +7,5 @@ Var
 Inicio
 escreval("ola mundo")
 escreval("ola UNIVERSO")
-
+ escreval("ola UNIVERSO 2")
 Fimalgoritmo
